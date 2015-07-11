@@ -11,11 +11,13 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+//Route::get('/', function () {
+//    return view('welcome');
+//});
 
 //Route::get('/', 'BlogController@index');
 
 
-Route::get('blog', 'PostsController@index');
+Route::get('/', 'PostsController@index');
+
+Route::get('admin', 'PostsAdminController@index');
