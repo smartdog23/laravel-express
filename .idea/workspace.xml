@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27ffa81d-46d9-4a18-ab25-f51f7708b698" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/migrations/2015_07_11_124354_create_tags_posts_table.php" afterPath="$PROJECT_DIR$/database/migrations/2015_07_11_124354_create_tags_posts_table.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="awesome.iws" />
@@ -118,8 +119,8 @@
       <file leaf-file-name="2015_07_11_124354_create_tags_posts_table.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/database/migrations/2015_07_11_124354_create_tags_posts_table.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.46092504" vertical-offset="0" max-vertical-offset="663">
-              <caret line="18" column="68" selection-start-line="18" selection-start-column="68" selection-end-line="18" selection-end-column="68" />
+            <state vertical-scroll-proportion="0.40669855" vertical-offset="0" max-vertical-offset="663">
+              <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -1032,8 +1033,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/database/migrations/2015_07_11_124354_create_tags_posts_table.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46092504" vertical-offset="0" max-vertical-offset="663">
-          <caret line="18" column="68" selection-start-line="18" selection-start-column="68" selection-end-line="18" selection-end-column="68" />
+        <state vertical-scroll-proportion="0.40669855" vertical-offset="0" max-vertical-offset="663">
+          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
           <folding />
         </state>
       </provider>

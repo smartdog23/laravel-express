@@ -14,7 +14,7 @@ class CreateTagsPostsTable extends Migration
     {
         Schema::create('posts_tags', function (Blueprint $table) {
             $table->increments('post_id');
-            $table->foreign('post_id')=>references('id')->on('posts');
+            $table->foreign('post_id')->references('id')->on('posts');
             $table->integer('tag_id');
             $table->foreign('tag_id')->references('id')->on('tags');
 
