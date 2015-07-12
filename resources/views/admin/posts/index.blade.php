@@ -20,4 +20,6 @@
 
     </table>
 
+    {!! $posts->render() !!}
+
 @endsection
